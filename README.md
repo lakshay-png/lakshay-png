@@ -41,6 +41,14 @@ NLP-powered chat analytics dashboard
 ### Amazon Sales Analysis
 End-to-end sales analytics project
 
+## Achievements
+
+- Solved 500+ DSA Problems
+- Built 5+ AI/ML Projects
+- Developed RAG-based Chatbot
+- Developed AI SEO SaaS Application
+- Completed Data Analytics Projects
+
 ## Connect With Me
 
 LinkedIn - https://www.linkedin.com/in/lakshay-karwa-70341628b/
