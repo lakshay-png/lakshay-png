@@ -54,5 +54,6 @@ End-to-end sales analytics project
 LinkedIn - https://www.linkedin.com/in/lakshay-karwa-70341628b/
 LeetCode - https://leetcode.com/u/lakshay_karwa/
 Email - lakshaykarwa1234@gmail.com
+Portfolio - https://lakshay-portfolio-rosy.vercel.app/
 
 
